@@ -1,0 +1,168 @@
+
+.place{
+background-image: url("pic/place1.png");
+background-size: cover;
+width: 100%;
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.line{
+    width: 50%;
+    margin: 40% 10% 15% 60%;
+}
+
+.pl{
+    width: 15vw;
+    display: block;
+}
+
+.shim{
+    height: 6vw;
+}
+
+
+.textic{
+    font-size: 1.9vw;
+    color: white;
+    padding-top: 18%;
+}
+.textic1{
+    font-size: 1.9vw;
+    color: white;
+    padding-top: 18%;
+    padding-left: 7%;
+}
+
+.con{
+    font-family: 'Sylfaen';
+    text-align: center;
+    padding-bottom: 0.3vw;
+  }
+
+  .a{
+      width: 60%;
+      margin-left: 20.5%;
+  }
+
+  .picme{
+      width: 90%;
+      padding-top: 30%;
+      padding-bottom: 11%;
+  }
+
+  .rt{
+    font-size: 1.8vw;
+    text-align: center;
+    padding-right: 13%;
+    padding-bottom: 50%;
+    color:white;
+  }
+
+
+
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: -5;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.61);
+  overflow: hidden;
+  width: 96%;
+  height: 0%;
+  transition: .5s ease;
+  }
+
+  .textani {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .z:hover .overlay {
+    height: 100%;
+    width: 96%;
+  }
+
+
+
+  
+.back{
+    background-color: white;
+}
+
+
+
+.cc{
+    width: 22vw;
+    margin-left: 10%;
+}
+
+.last{
+    background-image: url("pic/bglast.png");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #A7A7A8;
+}
+
+
+
+.modal1{
+    max-height: calc(100vh - 0vh);
+    max-width: calc(150vh - 0vh);
+    height: 110%;
+    width: 130%;
+    overflow-y:scroll;
+    border-color: black;
+    color : black;
+    margin:-2% 0 -2% -13%;
+}
+
+#fra{
+   background-image: url("pic/fa.png");
+   background-size: cover;
+   background-position: center;
+   height: 155vw;
+}
+
+.affix ~ .container-fluid{
+    position: relative;
+    top: 0px;
+}
+
+#spa{
+    background-image: url("pic/sp.png");
+    background-size: cover;
+    background-position: center;
+    height: 155vw;
+ }
+
+ #ita{
+    background-image: url("pic/it.png");
+    background-size: cover;
+    background-position: center;
+    height: 165vw;
+ }
+
+ #nor{
+    background-image: url("pic/no.png");
+    background-size: cover;
+    background-position: center;
+    height: 155vw;
+ }
+
+ #ger{
+    background-image: url("pic/ge.png");
+    background-size: cover;
+    background-position: center;
+    height: 155vw;
+ }

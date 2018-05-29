@@ -1,0 +1,29 @@
+{
+  "name": "food",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^2.10.2",
+    "babel-plugin-import": "^1.1.1",
+    "jquery": "^3.3.1",
+    "mdbreact": "^4.4.0",
+    "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.0",
+    "react-native-hr": "^1.1.4",
+    "react-popup": "^0.9.3",
+    "react-router": "^4.2.0",
+    "react-scripts": "^1.1.4",
+    "react-scroll-to-element": "^0.2.0",
+    "react-share": "^2.1.1",
+    "reactjs-popup": "^1.1.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "license": "ISC"
+}

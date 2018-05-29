@@ -1,0 +1,84 @@
+
+.navone{
+    background: rgba(0, 0, 0, 0);
+    padding-top: 8%;
+  }
+
+
+  .navbar-header{
+    justify-content: flex-end;
+    background-color: rgba(41, 41, 41, 0.199);
+    color:white;
+    font-family: 'The Queen';
+    font-size: 1.5vw;
+}
+
+.d{
+  margin-top: 2%;
+}
+  
+  .pad{
+    padding-left: 5%;
+    color: white;
+  }
+  
+  .pad1{
+    padding-left: 4%;
+    color :white;
+  }
+  
+  .pad2{
+    color: white;
+  }
+
+  .home{
+    background-image: url("pic/b.jpg");
+    font-family: 'The Queen';
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #A7A7A8;
+  }
+  
+  .fonthome{
+    font-size: 5vw;
+    text-align: center;
+    margin-top: 14%;
+    margin-bottom: -2%;
+  }
+
+  .ff{
+    font-family: 'Sylfaen';
+    text-align: center;
+    margin-bottom: 35%;
+  }
+
+  .picabout{
+    width: 80%;
+    height: auto;
+    margin-top: 1%;
+  }
+
+  .abtext{
+    font-size: 4vw;
+    padding-top: 15%;
+  }
+
+  .abdetail{
+    font-family: 'Sylfaen';
+    text-align: center;
+    margin: 5% 10%;
+    padding-bottom: 6%;
+  }
+
+
+  .navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+  }
+
